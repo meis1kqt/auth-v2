@@ -1,0 +1,14 @@
+.env
+.env.local
+.env.*.local
+
+config.local.yaml
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/tmp/
